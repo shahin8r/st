@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Hack Nerd Font:size=9:antialias=true:hinting=true:lcdfilter=lcddefault:hintstyle=hintfull";
+static char *font = "Hack Nerd Font:size=10:antialias=true:hinting=true:lcdfilter=lcddefault:hintstyle=hintfull";
 static int borderpx = 8;
 
 /*
